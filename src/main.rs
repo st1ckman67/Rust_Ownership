@@ -1,3 +1,5 @@
+// Example from the Rust Programming Book
+
 fn main() {
     let s = String::from("hello");  // s comes into scope
 
